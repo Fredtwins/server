@@ -1,0 +1,5 @@
+apps:
+  - script: ./server.js
+    name: Gykj_study
+    env_production:
+      NODE_ENV: production
